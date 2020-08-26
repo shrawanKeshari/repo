@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-02T05:41:18Z" name="com.test.thrift.ThriftService.Test" finished-at="2019-09-02T05:41:18Z" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2019-09-02T05:41:18Z" name="Command line test" finished-at="2019-09-02T05:41:18Z" duration-ms="17">
+      <class name="com.test.thrift.ThriftService.Test">
+        <test-method signature="testParamtert()[pri:0, instance:com.test.thrift.ThriftService.Test@6ddf90b0]" started-at="2019-09-02T11:11:18Z" name="testParamtert" finished-at="2019-09-02T11:11:18Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testParamtert -->
+      </class> <!-- com.test.thrift.ThriftService.Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.thrift.ThriftService.Test -->
+</testng-results>
